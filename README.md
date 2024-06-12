@@ -36,7 +36,6 @@ The application can be packaged using:
 
 Use `requests.http` to test after startup the app
 
-![img.png](img.png)
 ```
 ###
 GET http://localhost:8080/api/exchange-rate
